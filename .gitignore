@@ -1,0 +1,22 @@
+# Archivos temporales y de configuración
+*.bak
+*.tmp
+*.log
+*.backup
+
+# Carpetas específicas de TIA Portal
+*/_download/
+*/_upload/
+*/_temp/
+*/_backup/
+
+# Archivos de proyecto generados automáticamente
+*.ap15
+*.ap16
+*.ap17
+*.ap18
+
+# Archivos de configuración del entorno
+.settings/
+.metadata/
+
